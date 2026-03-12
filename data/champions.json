@@ -1,0 +1,101 @@
+[
+ {
+  "id": 1,
+  "anio": 2024,
+  "equipo": "Real Madrid",
+  "pais": "España",
+  "entrenador": "Carlo Ancelotti",
+  "estadio": "Wembley",
+  "resultado": ""
+ },
+ {
+  "id": 2,
+  "anio": 2023,
+  "equipo": "Manchester City",
+  "pais": "Inglaterra",
+  "entrenador": "Pep Guardiola",
+  "estadio": "Ataturk",
+  "resultado": ""
+ },
+ {
+  "id": 3,
+  "anio": 2022,
+  "equipo": "Real Madrid",
+  "pais": "España",
+  "entrenador": "Carlo Ancelotti",
+  "estadio": "Stade de France",
+  "resultado": ""
+ },
+ {
+  "id": 4,
+  "anio": 2021,
+  "equipo": "Chelsea",
+  "pais": "Inglaterra",
+  "entrenador": "Thomas Tuchel",
+  "estadio": "Porto",
+  "resultado": ""
+ },
+ {
+  "id": 5,
+  "anio": 2020,
+  "equipo": "Bayern Munich",
+  "pais": "Alemania",
+  "entrenador": "Hansi Flick",
+  "estadio": "Lisboa",
+  "resultado": ""
+ },
+ {
+  "id": 6,
+  "anio": 2019,
+  "equipo": "Liverpool",
+  "pais": "Inglaterra",
+  "entrenador": "Jurgen Klopp",
+  "estadio": "Madrid",
+  "resultado": ""
+ },
+ {
+  "id": 7,
+  "anio": 2018,
+  "equipo": "Real Madrid",
+  "pais": "España",
+  "entrenador": "Zidane",
+  "estadio": "Kiev",
+  "resultado": ""
+ },
+ {
+  "id": 8,
+  "anio": 2017,
+  "equipo": "Real Madrid",
+  "pais": "España",
+  "entrenador": "Zidane",
+  "estadio": "Cardiff",
+  "resultado": ""
+ },
+ {
+  "id": 9,
+  "anio": 2016,
+  "equipo": "Real Madrid",
+  "pais": "España",
+  "entrenador": "Zidane",
+  "estadio": "Milan",
+  "resultado": ""
+ },
+ {
+  "id": 11,
+  "anio": 2014,
+  "equipo": "Real Madrid",
+  "pais": "España",
+  "entrenador": "Ancelotti",
+  "estadio": "Lisboa",
+  "resultado": "4-1"
+ },
+ {
+  "id": 11,
+  "anio": 2014,
+  "equipo": "Real Madrid",
+  "pais": "España",
+  "entrenador": "Ancelotti",
+  "estadio": "Lisboa",
+  "resultado": "4-1"
+ }
+]
